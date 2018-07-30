@@ -1,1 +1,13 @@
-Sample yaml.
+apiVersion: v1
+entries:
+  isam-beta:
+  - apiVersion: v1
+    appVersion: 2.1.0.3
+    created: 2018-07-23T17:29:06.161649582-04:00
+    description: A Helm chart for Kubernetes
+    digest: 252f6014aa7bd32102e334294386a93aab61f4ec14714f90e7c53350b41f9756
+    name: isam-beta
+    urls:
+    - https://pages.github.ibm.com/john-webb/isam-helm/isam-beta-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-07-23T17:29:06.16062405-04:00
